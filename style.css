@@ -1,0 +1,41 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.ornage-color{
+    color: orangered;
+}
+
+section{
+    display: flex;
+}
+
+.half-width img{
+    width: 80%;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+
+.hire-me{
+    text-decoration: none;
+    background-image: linear-gradient(orangered, rgba(255, 68, 0, 0.685));
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.top-banner{
+    background-image: url(./images/top-banner.png);
+    background-repeat: no-repeat;
+}
